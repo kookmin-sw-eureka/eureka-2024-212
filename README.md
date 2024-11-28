@@ -1,3 +1,7 @@
+<div align="center">
+	<img src = "img/Banner.png" 
+	width="100%"/>
+</div>
 # 유레카 프로젝트 팀 활동 최종 보고
 
 ## 팀 정보
