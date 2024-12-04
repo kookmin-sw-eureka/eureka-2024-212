@@ -23,7 +23,7 @@
 ![Bingo](img/Bingo.png)
 
 #### 4️⃣ 후기 및 다짐
-<div align="center"><img src="/img/graph.jpg" width="70%" height="70%"></div>
+<img src = "img/graph.jpg" width="70%"/>
 
 ---
 
